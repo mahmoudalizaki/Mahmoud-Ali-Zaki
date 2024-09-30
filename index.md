@@ -89,7 +89,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="Python" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919828.png" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="HTML" width="50" height="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="Flask" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5991/5991232.png" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/882/882702.png" alt="SQLite" width="50" height="50"/>
