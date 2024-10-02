@@ -6,8 +6,10 @@
 **Software Developer | Full-Stack Engineer**
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mahmoudalizakym@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/+201065356924)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudalizaki)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-lightgreen?logo=Whatsapp)](https://wa.me/+201065356924)
+[![Phone](https://img.shields.io/badge/phone-+201065356924-blue?logo=Viber)](tel:+201065356924)
+
 
 ---
 
