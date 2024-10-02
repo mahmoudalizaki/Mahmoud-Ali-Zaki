@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mahmoudalizakym@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com)
-![Mobile](https://img.shields.io/badge/-Mobile-%2320C997?style=flat-square&logo=whatsapp&logoColor=white) +201065356924  
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/+201065356924)
 
 ---
 
