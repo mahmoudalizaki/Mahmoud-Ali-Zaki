@@ -53,7 +53,7 @@
   - **User Authentication**: Implemented role-based access control for admins, managers, and users.
   - **Database Integration**: Utilizes MySQL for efficient storage and retrieval of customer, product, and invoice data.
 - **Screenshots**:
-  </br>
+  
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/6F46XQ3/image.png" alt="Image" width="150" height="150"></a>
   <a href="https://ibb.co/DDySzQ8"><img src="https://i.ibb.co/gMpBmJP/1.png" alt="1" width="150" height="150"></a>
   <a href="https://ibb.co/yhFGt1n"><img src="https://i.ibb.co/k32kjfg/2.png" alt="2" width="150" height="150"></a>
@@ -75,7 +75,7 @@
   - **CRUD Operations**: Implemented features for adding, editing, and deleting invoices and products.
   - **Payment Tracking**: Easily track payment status and customer accounts.
 - **Screenshots**:
-  </br>
+  
   <a href="https://ibb.co/pL91D9p"><img src="https://i.ibb.co/BCSfDSR/1.png" alt="1" width="150" height="150"></a>
   <a href="https://ibb.co/7QGB1Mb"><img src="https://i.ibb.co/Vxvbqn3/2.png" alt="2" width="150" height="150"></a>
   <a href="https://ibb.co/ngJ8V3k"><img src="https://i.ibb.co/kHC6r3c/3.png" alt="3" width="150" height="150"></a>
@@ -92,7 +92,7 @@
   - **Multiple Video Qualities**: Allows users to choose from different video quality options.
   - **Responsive Design**: Designed with Bootstrap 5 for an optimal viewing experience on all devices.
 - **Screenshots**:
-  </br>
+  
   <a href="https://ibb.co/Y8hBXqz"><img src="https://i.ibb.co/J2HjqMf/1.png" alt="1" width="150" height="150"></a>
   <a href="https://ibb.co/ZmLvLqW"><img src="https://i.ibb.co/Wtx7xmg/2.png" alt="2" width="150" height="150"></a>
   <a href="https://ibb.co/rZGGKCx"><img src="https://i.ibb.co/wKNNZ9S/image.png" alt="Image" width="150" height="150"></a>
@@ -107,7 +107,7 @@
   - **File Transfer**: Transfer files between the desktop and Android devices seamlessly.
   - **App Management**: Install and uninstall applications remotely.
 - **Screenshots**:
-  </br>
+  
   <a href="https://ibb.co/0jrB4LX"><img src="https://i.ibb.co/BVB4WJP/image.png" alt="Image" width="150" height="150"></a>
   <a href="https://ibb.co/0QPp6Br"><img src="https://i.ibb.co/25X0C8d/1.png" alt="1" width="150" height="150"></a>
   <a href="https://ibb.co/KxXr6g8"><img src="https://i.ibb.co/nMbLryK/2.png" alt="2" width="150" height="150"></a>
